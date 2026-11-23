@@ -1,0 +1,7 @@
+{
+  "name": "cn5006-week4",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "mongoose": "^8.0.0" }
+}
